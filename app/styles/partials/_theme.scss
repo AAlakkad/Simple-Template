@@ -7,8 +7,14 @@
         > li {
             text-align: center;
             border-bottom: 4px solid $primary-color;
+            a {
+                color: $md-grey-200;
+            }
             &:hover {
                 border-bottom-color: $md-pink-500;
+                a {
+                    color: $md-white;
+                }
             }
         }
     }
