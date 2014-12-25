@@ -1,0 +1,13 @@
+.card {
+    background: $md-grey-50;
+    box-shadow: 0 0 2px $md-grey-400;
+    margin: 15px auto;
+    padding: 15px;
+    border-radius: 2px;
+
+    .date {
+        font-size: small;
+        color: $md-grey-700;
+        margin-bottom: 10px;
+    }
+}
