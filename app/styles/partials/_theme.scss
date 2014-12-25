@@ -1,0 +1,15 @@
+.logo {
+    color: $md-grey-200;
+}
+
+.top-bar {
+    ul:first-child {
+        > li {
+            text-align: center;
+            border-bottom: 4px solid $primary-color;
+            &:hover {
+                border-bottom-color: $md-pink-500;
+            }
+        }
+    }
+}
