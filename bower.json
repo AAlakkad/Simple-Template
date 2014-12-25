@@ -1,0 +1,22 @@
+{
+  "name": "simple-template",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AAlakkad/Simple-Template",
+  "authors": [
+    "Ammar Alakkad <am.alakkad@gmail.com>"
+  ],
+  "description": "Simple HTML template",
+  "main": "index.html",
+  "keywords": [
+    "html",
+    "template"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
