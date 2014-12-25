@@ -18,5 +18,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "foundation": "~5.5.0",
+    "material-colors": "~1.0.0",
+    "fontawesome": "~4.2.0"
+  }
 }
