@@ -27,8 +27,11 @@
 }
 
 .site-footer {
-    text-align: left;
+    text-align: center;
     font-size: small;
+    background: lighten($md-grey-300, 6%);
+    border-top: 1px solid $md-grey-400;
+    padding: 40px 0;
 }
 
 ul.pagination li {
